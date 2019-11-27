@@ -22,4 +22,4 @@ Numpy, Scikit-Learn, Matplotlib, Seaborn, Pandas, Pandas-profiling, FancyImpute,
 4. Be happy.
 
 ## Can I play this without Colab?
-Yes. There's a plain python script inside /Bank/data/ and you may also load it in a local hosted Jupyter. 
+Yes. There's a plain python script inside /Bank/codes/ and you may also load it in a local hosted Jupyter. 
